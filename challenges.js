@@ -1,4 +1,4 @@
- /*
+/*
 GAME RULES:
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
@@ -101,59 +101,4 @@ function init() {
 
 //document.querySelector('#current-' + activePlayer).textContent = dice;
 //document.querySelector('#current-' + activePlayer).innerHTML = '<em>' + dice + '</em>';
-//var x = document.querySelector('#score-0').textContent;     
- //dice=Math.floor(Math.random()*6)+1;
-//document.querySelector('#current-' + activePlayer).textContent = dice;
-//var x=document.querySelector('#score-0').textContent;
-//console.log(x);
-//Events: Events are the notifications that are sent to notify the code that somethin has happened on the webpage.
-//example: Clicking a button, resizing a window or scrolling down or pressing a key .
-//Event listner:  A function that performs an action based on certain event. It waits for a specific event to happen.
-
-
-    
-    
-
-    
-    
-
-    
-    
-    
-
-
-
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//var x = document.querySelector('#score-0').textContent;
